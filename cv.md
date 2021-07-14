@@ -16,6 +16,6 @@
 * since 2020 Power engineer
 ### ***Education***
 * 2007-2008  Electrician 
-* 2008-2014 Power engineer
+* 2008-201 Power engineer/
 
 
