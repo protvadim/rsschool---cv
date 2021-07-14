@@ -1,2 +1,2 @@
 # rsschool---cv
-https://protvadim.github.io/rsschool-cv/cv
+https://github.com/protvadim/rsschool---cv.git
